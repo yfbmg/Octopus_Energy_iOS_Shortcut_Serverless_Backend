@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "learn_azure_functions": {
+    "Octopus_Energy_iOS_Shortcut_Serverless_Backend": {
       "commandName": "Project",
       "commandLineArgs": "--port 7235",
       "launchBrowser": false
