@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Octopus_Energy_iOS_Shortcut_Serverless_Backend", "Octopus_Energy_iOS_Shortcut_Serverless_Backend.csproj", "{3A685A77-2B31-4E36-9E37-EACE7443140C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A685A77-2B31-4E36-9E37-EACE7443140C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A685A77-2B31-4E36-9E37-EACE7443140C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A685A77-2B31-4E36-9E37-EACE7443140C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A685A77-2B31-4E36-9E37-EACE7443140C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670E22F4-7227-43D4-9D13-1D3925B845F8}
+	EndGlobalSection
+EndGlobal
